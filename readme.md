@@ -1,17 +1,20 @@
 # Github Flavoured Markdown
 
 ## Create checkboxes with the following tasks: 
-- [ ] External Link
-- [ ] Internal Link
-- [ ] Images
+- [X] External Link
+- [X] Internal Link
+- [X] Images
 - [ ] Emojis 
 - [ ] Tables 
 
 ## Add an external link to the github documentation. https://help.github.com/en
+[github documentation](https://help.github.com/en)
 
 ## Add a link to the images folder.
+[images folder](images/)
 
 ## Add the image from the images folder. 
+![logo](images/logo.png)
 
 ## Add an emoji. 
 
