@@ -1,5 +1,6 @@
 # Github Flavoured Markdown
 
+
 ## Create checkboxes with the following tasks: 
 - [X] External Link
 - [X] Internal Link
@@ -9,6 +10,8 @@
 
 ## Add an external link to the github documentation. https://help.github.com/en
 [github documentation](https://help.github.com/en)
+
+##sect1
 
 ## Add a link to the images folder.
 [images folder](images/)
@@ -28,3 +31,4 @@
 
 
 ## Link each of the secondary headings to the respective checkbox items.
+Cannot find the right syntax yet
